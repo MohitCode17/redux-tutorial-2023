@@ -1,0 +1,5 @@
+[-] Create a Redux Store
+[-] Provide the Redux store to React root file
+[-] Create a Redux State Slice
+[-] Add Slice Reducers to the Store
+[-] Use Redux State and Actions in React Components
